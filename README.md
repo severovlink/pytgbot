@@ -1,2 +1,2 @@
 # pytgbot
-Simple telegram bot for internet market
+Simple telegram bot test
